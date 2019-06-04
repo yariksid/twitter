@@ -1,0 +1,74 @@
+.header{
+	height: 30px;
+}
+.header a{
+	margin-left: 50px;
+}
+.main{
+	display: flex;
+}
+.news{
+	height: 800px;
+	width: 400px;
+	background: cyan;
+	margin-top: 70px;
+	box-sizing: border-box;
+	padding: 25px;
+	margin-left: 70px;
+}
+.input{
+	margin-left: 100px;
+	padding-left: 30px
+}
+.icon{
+	height: 50px;
+	width: 50px;
+	margin-left: 250px;
+}
+body{
+	margin: 0px;
+	padding: 0px;
+	
+}
+.new{
+	background: white;
+	width: 300px;
+	height: 400px;
+	padding: 20px
+}
+.recom{
+	background: white;
+	padding: 20px;
+	box-sizing: border-box;
+	margin-top: 50px
+}
+.account_frame{
+	background: white;
+	padding: 20px;
+	box-sizing: border-box;
+	margin-right: 40px;
+}
+.column{
+	padding: 20px;
+	height: 400px;
+	width: 300px;
+	margin-top: 100px;
+	margin-left: 50px;
+}
+.btn{
+	border-radius: 50%;
+	padding: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border: blue solid 1px;
+	background: white;
+}
+.colmnn{
+	background: white;
+	padding: 20px;
+	box-sizing: border-box;
+	height: 200px;
+}
+.mar{
+	height: 300px;
+}
